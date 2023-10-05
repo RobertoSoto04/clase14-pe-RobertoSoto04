@@ -87,5 +87,5 @@ class Program
         {
             Console.WriteLine("Entrada no válida. Intente nuevamente.");
         }
-    }
+    } 
 }
